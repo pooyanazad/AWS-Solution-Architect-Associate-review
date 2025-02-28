@@ -1,4 +1,4 @@
-# README: AWS Solutions Architect Associate Exam Review
+AWS Solutions Architect Associate Exam Review
 
 ## Overview
 This repository contains a **high-level review** of AWS topics aligned with the AWS Certified Solutions Architect – Associate (SAA-C03) exam. It is not an official study guide, but rather a supplementary reference summarizing core concepts, best practices, and services.
@@ -14,7 +14,7 @@ This repository contains a **high-level review** of AWS topics aligned with the 
 - **Study Materials**:
   - **AWS Official Tutorials and Documentation**
   - **Online Course by Stephane Maarek** ([Udemy Course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03))
-- **Certificate**: [View My Certificate](https://www.credly.com/badges/86f4e616-897d-43f8-aaa1-b57c7de6a237/public_url)
+- **My Certificate**: [View My Certificate](https://www.credly.com/badges/86f4e616-897d-43f8-aaa1-b57c7de6a237/public_url)
 
 ## Repository Structure
 The content in this repository is divided into separate Markdown files, each focusing on a distinct AWS topic relevant to the SAA-C03 exam:
