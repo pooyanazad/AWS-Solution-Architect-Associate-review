@@ -1,5 +1,3 @@
-AWS Solutions Architect Associate Exam Review
-
 ## Overview
 This repository contains a **high-level review** of AWS topics aligned with the AWS Certified Solutions Architect – Associate (SAA-C03) exam. It is not an official study guide, but rather a supplementary reference summarizing core concepts, best practices, and services.
 
