@@ -38,6 +38,9 @@ The content in this repository is divided into separate Markdown files, each foc
 - For the latest information, always consult **official AWS documentation**.
 - Hands-on practice with AWS services is crucial for reinforcing concepts.
 
+## Attention
+You can't pass the exam with just read this 15 lessons its just a review!
+
 ## Disclaimer
 This content is purely for educational purposes. Using it does not guarantee success on the AWS Certified Solutions Architect – Associate exam. Always combine multiple resources to prepare effectively.
 
